@@ -1,9 +1,11 @@
-### SQL SQL SQL SQL SQL
+# Homework: SQL SQL SQL!!!
 
-Tonight's homework is three-fold
+![image](https://s-media-cache-ak0.pinimg.com/originals/11/f1/5b/11f15bab3d7c97e402595a6585b5b17f.jpg)
+
+Tonight's homework is three-fold: 
 
 
-#### Part 1: Carmen Sandiego
+## Part 1: Carmen Sandiego
 
 This assignment will get you comfortable with queries. Start your SQL
 explorations here.
@@ -12,14 +14,14 @@ Follow the [readme.md](carmen-sandiego/readme.md) in the carmen-sandiego folder 
 
 **Strong Recommendation:** Make finding Carmen Sandiego way more fun and faster by partnering up! Work with at least one other person, ask the evening TA to make a breakout room or make your own Zoom room!
 
-#### Part 2: NFL
+## Part 2: NFL
 
 This assignment will give you more practice with queries, and get
 you to deal with some more advanced parts of the sql language. Start this after after having completed Carmen Sandiego.
 
 Follow the [readme.md](nfl/readme.md) in the nfl folder and put your answers in nfl.sql (more details in the associated readme).
 
-#### Part 3: Realty
+## Part 3: Realty
 
 This assignment will expose you to modeling your data, and manually
 creating tables and seeding your database.
